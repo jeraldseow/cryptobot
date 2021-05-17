@@ -1,0 +1,5 @@
+TELEGRAM_TOKEN = "1884601079:AAFK4STC-3NkcDgcBZCSnCFiFMaF-OcGjmU"
+
+code_blue_chat = "-344268501"
+
+bitcoin_babies = "-560930302"
